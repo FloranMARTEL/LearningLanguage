@@ -16,8 +16,11 @@ class MainView(Tk):
         #top (menu)
         menu = Frame(self)
         buttondico = Button(menu,text="Dicsionaire",font=("Courier", smalFont))
+        buttonhistorique = Button(menu,text="Historique",font=("Courier", smalFont))
 
         buttondico.pack(side="left")
+        buttonhistorique.pack(side="left")
+
         menu.pack(side="top",fill='x')
 
         #midel (mots)
