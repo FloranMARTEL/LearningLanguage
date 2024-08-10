@@ -1,5 +1,5 @@
 # LearningLanguage
 Appication to learning new Lang
 
-bonjour
+bonjour toi
 Début : 10/08/2024
